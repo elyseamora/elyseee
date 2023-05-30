@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Group 4 Amazing </title> 
+	<meta name="description" content="HTML Document of Group 4 for Performance Task.">
+	<meta name="keywords" content="submit site, submit, site">
+<style>
+	body{border-style:solid; border-color:purple; margin-left:150px;margin-right:150px; margin-top: 10px;margin-bottom:50px; padding-left:50px;padding-right:50px;padding h1{color:purple; 	text-align:center; font-family:lucida calligraphy}
+	h1{text-align: center; font-family:times new roman; font-size: 20px; color:violet}
+	h2{color:purple; text-align:center; font-family:lucida calligraphy; text-color: pink}
+</style>
+</head>
+<body>
+	<h1>Group 4 ICT 10-EROS</h1>
+
+	<h2>Myla C. Perez</h2>
+	<h2>Angelica S. Ngo</h2>
+	<h2>Angela Remolacio</h2>
+	<h2>Carmelo Calara</h2>
+	<h2>Clyde Villanueva</h2>
+	<h2>Neil Xyrus Pacioles</h2>
+	<h2>Hannah Jane Hidalgo</h2>
+	<h2>Lovely Atienza</h2>
+	<h2>Christelos Ilagan</h2>
+	<h2>John Monn Gahol</h2>
+	<h2>   </h2>
+</body>
+</html>
